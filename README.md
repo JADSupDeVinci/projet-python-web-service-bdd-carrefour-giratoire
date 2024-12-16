@@ -1,5 +1,7 @@
 # INFORMATIONS
-
+- il faut installer sqlalchemy, flask, mysqlclient avant de commencer le projet vous pouvez faire/
+  ```bash
+  pip install sqlalchemy flask mysqlclient```
 ## Auteurs
 - Ianice Lange
 - Anatole Simonnet
